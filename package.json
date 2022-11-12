@@ -1,6 +1,7 @@
 {
   "name": "starter-react-app",
   "proxy": "https://expressjs-mongoose-production-144e.up.railway.app/",
+  "homepage":"https://profilecreator.onrender.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {
